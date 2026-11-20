@@ -1,11 +1,16 @@
 >**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.  I have forked this and cloned it locally. 
 
+.**Note**: this bikeshare code is not necessarily complete. As of this writing, udacity is moving to NASA data for the python project.
+
 
 # Project Title
 
-Describe what your project is about and what it does
+Udacity git project
 
 ## Information about how to use your project
+
+The bikeshare project was submitted via the udacity portal.
+The work was done in the workspaces provided.
 
 This could include:
 
@@ -16,12 +21,12 @@ This could include:
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+Not looking for contributions. Feedback and grading through Udacity portal
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+DJ Sadvary
 
 ## Date created
 
-Include the date you created this project and README file.
+20NOV26
