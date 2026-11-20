@@ -1,15 +1,12 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.  I have forked this and cloned it locally. 
-
-.**Note**: this bikeshare code is not necessarily complete. As of this writing, udacity is moving to NASA data for the python project.
-
-
-# Project Title
+**Note**: this bikeshare code is not necessarily complete. As of this writing, udacity is moving to NASA data for the python project.
 
 Udacity git project
 
 ## Information about how to use your project
 
 The bikeshare project was submitted via the udacity portal.
+	Received note about not passing. I did not get the chance to edit the code, as I was then given the NASA data and project. 
+		This project was completed in the workspaces provided and passed.
 The work was done in the workspaces provided.
 
 This could include:
