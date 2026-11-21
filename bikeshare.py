@@ -66,10 +66,8 @@ hour_freq = df["hour"].value_counts(normalize=True)
 
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
-    """ Never finished this section of code """
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
-
     # TO DO: display most commonly used start station
 print("Most commonly used start station: ", df['Start Station'].mode()[0])
 
