@@ -7,9 +7,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 def get_filters():
-    """
-    Asks user to specify a city, month, and day to analyze.
-
+    """    Asks user to specify a city, month, and day to analyze.
     Returns:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
@@ -68,7 +66,7 @@ hour_freq = df["hour"].value_counts(normalize=True)
 
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
-
+    """ Never finished this section of code """
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
 
